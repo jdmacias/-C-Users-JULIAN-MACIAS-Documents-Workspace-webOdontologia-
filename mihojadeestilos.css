@@ -1,0 +1,28 @@
+#cabeceraweb{
+    background-color: rgb(147, 237, 29);
+}
+#navprincipal{
+    background-color: rgb(173, 233, 95);
+}
+#barralateral{
+    background-color: rgb(64, 228, 212);
+    float: left;
+    height: 1262px;
+}
+#contenidoppal{
+    background-color: rgb(24, 111, 111);
+    margin-left: 210px;
+    padding-left: 15px;
+    padding-top: 15px;
+    
+}
+#pieppal{
+    background-color: rgb(110, 139, 165);
+    clear:both;
+    margin-top: 20px;
+}
+
+li{
+    background-color: rgb(164, 117, 208);
+    display:inline
+}
